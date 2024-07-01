@@ -23,7 +23,7 @@ function App() {
 					Neque asperiores impedit, culpa minima aspernatur cupiditate itaque ipsam repellat ex in aliquam nemo alias illum quia, inventore at deleniti, doloribus dolores. Vitae sequi quo, fugiat quisquam voluptates accusantium repellat.
 				</Popup>
 			)}
-			<div className={`${showPopup ? "blur-sm " : ""} -z-10`}>
+			<div className={`${showPopup ? "blur-sm" : ""} -z-10`}>
 				<div className="flex flex-col p-4 justify-center items-center space-y-7 md:flex-row md:justify-between md:space-y-0  ">
 					<h3 className="text-[3rem] italic px-2 ">
 						Latest<span style={{color:"#8f44f4"}}>Products</span>
